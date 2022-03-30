@@ -1,9 +1,15 @@
-# Sup! I'm Victor Diniz, a Brazilian Full Stack Developer.
+# Sup! I'm Victor Diniz, a 19 years old Brazilian Full Stack Developer, currently living in São Paulo.
 
 <div>
   <a href = "victoralbertocostadiniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victoracdiniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/v.diniz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+  <h3>
+    I did a robotics course in my elementary school, and since then I've been falling in love more and more with the programming world. I love solving bugs and creating responsive applications, and every day I'm looking forward to improving my skills as a developer.
+  </h3>
 </div>
 
 <br><br>
@@ -45,6 +51,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img align="center" alt="MySql" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" alt="NodeJS" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img align="center" alt="ExpressJS" height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -58,7 +65,6 @@
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt=".net" height="30" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="NextJS" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
  </div>
   <br>
   
