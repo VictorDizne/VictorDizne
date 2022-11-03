@@ -68,5 +68,5 @@
   <br>
   
 [website]: https://victordizne.vercel.app/
-[mail]: victoralbertocostadiniz@gmail.com
+[mail]: mailto:victoralbertocostadiniz@gmail.com
 [linkedin]: https://www.linkedin.com/in/victoracdiniz/
