@@ -26,7 +26,6 @@
 <div align=left>
   
 - 🔨 I’m currently working on [my personal website.][website]
-- 🤔 I’m looking for an job as a junior dev.
 - 📫 How to reach me: [victoralbertocostadiniz@gmail.com][mail] or [Linkedin][linkedin].
 - 😄 Pronouns: He/Him.
 
