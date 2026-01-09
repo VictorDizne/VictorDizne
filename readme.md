@@ -1,4 +1,4 @@
-# Sup! I'm Victor Diniz, a 19 years old Brazilian Full Stack Developer, currently living in São Paulo.
+# Sup! I'm Victor Diniz, a 23 years old Brazilian Full Stack Developer, currently living in São Paulo.
 
 <div>
   <a href = "mailto:victoralbertocostadiniz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
